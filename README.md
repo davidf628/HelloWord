@@ -5,4 +5,5 @@ This is a test repository
 
 Can I use formulas? $y=int_0^x 3x dx$
 
-![image](calc_graphing_vvf.png)
+<img src="calc_graphing_vvf.png" width="320px" height="200px" />
+
