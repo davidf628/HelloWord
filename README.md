@@ -5,4 +5,4 @@ This is a test repository
 
 Can I use formulas? $y=int_0^x 3x dx$
 
-![calc_graph_3d.png]
+![calc_graphing_vvf.png]
